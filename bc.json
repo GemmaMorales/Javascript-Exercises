@@ -1,6 +1,6 @@
 {
     "port": 3000,
-    "address": "https://b4cd4db0-9fa2-44aa-9cf7-539053e392e9.ws-us02.gitpod.io",
+    "address": "https://fecf6635-7d11-42a1-a770-e19e721c925d.ws-eu01.gitpod.io",
     "editor": "gitpod",
     "configPath": {
         "config": "bc.json",
@@ -46,7 +46,7 @@
         {
             "slug": "02-Hello-World",
             "title": "02-Hello-World",
-            "done": false,
+            "done": true,
             "path": "exercises/02-Hello-World",
             "translations": [
                 "es",
@@ -57,7 +57,7 @@
         {
             "slug": "03-Print-variables-in-the-console",
             "title": "03-Print-variables-in-the-console",
-            "done": false,
+            "done": true,
             "path": "exercises/03-Print-variables-in-the-console",
             "translations": [
                 "es",
@@ -68,7 +68,7 @@
         {
             "slug": "04-Multiply-two-values",
             "title": "04-Multiply-two-values",
-            "done": false,
+            "done": true,
             "path": "exercises/04-Multiply-two-values",
             "translations": [
                 "es",
@@ -90,7 +90,7 @@
         {
             "slug": "06-Constants",
             "title": "06-Constants",
-            "done": false,
+            "done": true,
             "path": "exercises/06-Constants",
             "translations": [
                 "es",
@@ -101,7 +101,7 @@
         {
             "slug": "07-String-concatenation",
             "title": "07-String-concatenation",
-            "done": false,
+            "done": true,
             "path": "exercises/07-String-concatenation",
             "translations": [
                 "es",
@@ -112,7 +112,7 @@
         {
             "slug": "08-Create-a-basic-HTML",
             "title": "08-Create-a-basic-HTML",
-            "done": false,
+            "done": true,
             "path": "exercises/08-Create-a-basic-HTML",
             "translations": [
                 "es",
