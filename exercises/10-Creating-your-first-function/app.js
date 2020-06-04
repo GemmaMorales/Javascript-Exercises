@@ -1,5 +1,6 @@
 function addNumbers(a,b)
-{
+{   
+    return a + b
 	// Your code here
 }
 
