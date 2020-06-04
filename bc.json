@@ -1,6 +1,6 @@
 {
     "port": 3000,
-    "address": "https://fecf6635-7d11-42a1-a770-e19e721c925d.ws-eu01.gitpod.io",
+    "address": "https://ace9e56e-27b7-4ceb-8a74-77aac1faf84b.ws-us02.gitpod.io",
     "editor": "gitpod",
     "configPath": {
         "config": "bc.json",
@@ -123,7 +123,7 @@
         {
             "slug": "09-Calling-your-first-function",
             "title": "09-Calling-your-first-function",
-            "done": false,
+            "done": true,
             "path": "exercises/09-Calling-your-first-function",
             "translations": [
                 "es",
